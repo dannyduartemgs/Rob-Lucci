@@ -1,5 +1,7 @@
 # Rob-Lucci
-Rob Lucci skin for Bastian
+Rob Lucci from One Piece skin for Bastian
+
+There's a small visual bug in the lobby but in game looks fine. 
 
 Requested by Felix Moses on discord: discord.com/channels/felixmos 
 
